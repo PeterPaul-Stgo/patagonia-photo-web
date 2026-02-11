@@ -7,7 +7,7 @@ export default function App() {
     nombre: "",
     email: "",
     ciudad: "",
-    servicio: "Retrato",
+    servicio: "Retratos Premium Patagonia",
     fecha: "",
     mensaje: "",
   });
