@@ -119,7 +119,7 @@ Quiero cotizar / reservar una sesión.`;
       {/* SERVICES */}
       <section id="servicios" style={styles.section}>
         <div style={styles.sectionHeader}>
-          <h2 style={styles.h2}>Servicios Test Viento</h2>
+          <h2 style={styles.h2}>Servicios</h2>
           <p style={styles.sectionSub}>
             Un enfoque editorial: dirección simple, naturalidad, y resultados listos para imprimir o publicar.
           </p>
